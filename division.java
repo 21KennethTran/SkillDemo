@@ -3,4 +3,4 @@ public class division {
     int returnNum = num/divisor;
     return (double)returnNum;
   }
-{
+}
